@@ -1,0 +1,134 @@
+[
+  {
+    "ZWName": "美元",
+    "USName": "US Dollar",
+    "JPName": "米ドル",
+    "Code": "USD"
+  },
+  {
+    "ZWName": "歐元",
+    "USName": "Euro",
+    "JPName": "ユーロ",
+    "Code": "EUR"
+  },
+  {
+    "ZWName": "日圓",
+    "USName": "Japanese Yen",
+    "JPName": "円",
+    "Code": "JPY"
+  },
+  {
+    "ZWName": "英鎊",
+    "USName": "Pound Sterling",
+    "JPName": "ポンド",
+    "Code": "GBP"
+  },
+  {
+    "ZWName": "澳幣",
+    "USName": "Australian Dollar",
+    "JPName": "豪ドル",
+    "Code": "AUD"
+  },
+  {
+    "ZWName": "加拿大元",
+    "USName": "Canadian Dollar",
+    "JPName": "カナダドル",
+    "Code": "CAD"
+  },
+  {
+    "ZWName": "瑞士法郎",
+    "USName": "Swiss Franc",
+    "JPName": "スイスフラン",
+    "Code": "CHF"
+  },
+  {
+    "ZWName": "新台幣",
+    "USName": "New Taiwan Dollar",
+    "JPName": "新台湾ドル",
+    "Code": "TWD"
+  },
+  {
+    "ZWName": "人民幣",
+    "USName": "Chinese Yuan",
+    "JPName": "人民元",
+    "Code": "CNY"
+  },
+  {
+    "ZWName": "韓元",
+    "USName": "South Korean Won",
+    "JPName": "韓国ウォン",
+    "Code": "KRW"
+  },
+  {
+    "ZWName": "泰銖",
+    "USName": "Thai Baht",
+    "JPName": "バーツ",
+    "Code": "THB"
+  },
+  {
+    "ZWName": "印尼盧比",
+    "USName": "Indonesian Rupiah",
+    "JPName": "ルピア",
+    "Code": "IDR"
+  },
+  {
+    "ZWName": "馬來西亞林吉特",
+    "USName": "Malaysian Ringgit",
+    "JPName": "リンギット",
+    "Code": "MYR"
+  },
+  {
+    "ZWName": "菲律賓披索",
+    "USName": "Philippine Peso",
+    "JPName": "ペソ",
+    "Code": "PHP"
+  },
+  {
+    "ZWName": "越南盾",
+    "USName": "Vietnamese Dong",
+    "JPName": "ドン",
+    "Code": "VND"
+  },
+  {
+    "ZWName": "印度盧比",
+    "USName": "Indian Rupee",
+    "JPName": "インドルピー",
+    "Code": "INR"
+  },
+  {
+    "ZWName": "巴基斯坦盧比",
+    "USName": "Pakistani Rupee",
+    "JPName": "パキスタンルピー",
+    "Code": "PKR"
+  },
+  {
+    "ZWName": "南非蘭特",
+    "USName": "South African Rand",
+    "JPName": "南アフリカランド",
+    "Code": "ZAR"
+  },
+  {
+    "ZWName": "俄羅斯盧布",
+    "USName": "Russian Ruble",
+    "JPName": "ロシアルーブル",
+    "Code": "RUB"
+  },
+  {
+    "ZWName": "阿聯酋迪拉姆",
+    "USName": "United Arab Emirates Dirham",
+    "JPName": "アラブ首長国連邦ディルハム",
+    "Code": "AED"
+  },
+  {
+    "ZWName": "沙烏地阿拉伯裡亞爾",
+    "USName": "Saudi Riyal",
+    "JPName": "サウジアラビアリヤル",
+    "Code": "SAR"
+  },
+  {
+    "ZWName": "卡達裡亞爾",
+    "USName": "Qatari Riyal",
+    "JPName": "カタールリヤル",
+    "Code": "QAR"
+  }
+]
